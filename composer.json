@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "Toxic": "src/Toxic"
+            "Toxic": "src/"
         }
     }
 }
