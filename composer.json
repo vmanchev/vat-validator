@@ -1,0 +1,21 @@
+{
+    "name": "toxicdigital/vat-validator",
+    "description": "Validate a VAT number against the official European Commission VIES VAT number validation SOAP service.",
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0",
+        "ext-soap": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Venelin Manchev",
+            "email": "venelinphp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Toxic": "src/Toxic"
+        }
+    }
+}

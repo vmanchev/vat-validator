@@ -4,7 +4,7 @@ Validate a VAT number against the official European Commission VIES VAT number v
 
 ## How to install 
 
-TBD
+composer require "toxicdigital/vat-validator"
 
 ## How to use
 
